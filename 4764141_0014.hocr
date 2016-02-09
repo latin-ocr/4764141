@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4764141_0014.png"; bbox 0 0 3194 4131; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 62 2 1203">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 62 2 1203">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 62 2 1203; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 62 2 1203; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2272 0 2826 2">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2272 0 2826 2">
+     <span class='ocr_line' id='line_1_2' title="bbox 2272 0 2826 2; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 2272 0 2826 2; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 886 1345 2273 2060">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 886 1345 2273 2060">
+     <span class='ocr_line' id='line_1_3' title="bbox 886 1345 2273 1627; baseline -0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 886 1352 1640 1626; x_wconf 80' lang='lat' dir='ltr'>END</span> <span class='ocrx_word' id='word_1_4' title='bbox 1781 1345 2273 1627; x_wconf 75' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1061 1784 2086 2060; baseline -0.002 0"><span class='ocrx_word' id='word_1_5' title='bbox 1061 1784 2086 2060; x_wconf 91' lang='grc' dir='ltr'>ΤΙΤΙ.Ε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3192 3005 3194 3750">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3192 3005 3194 3750">
+     <span class='ocr_line' id='line_1_5' title="bbox 3192 3005 3194 3750; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 3192 3005 3194 3750; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
